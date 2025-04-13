@@ -323,14 +323,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19049311426e26a40bf82f4495216e95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gunAxis: {fileID: 0}
+  _gunAxis: {fileID: 6106495066703557376}
   _gunAngleLimit:
-    Min: -90
-    Max: 90
+    Min: -25
+    Max: 25
   _horRotateSpeed: 0.1
   _vertRotateSpeed: 0.1
   <FirePoint>k__BackingField: {fileID: 0}
-  _controller: {fileID: 0}
+  _controller: {fileID: 8263465517081405748}
   <Velocity>k__BackingField: 100
   _reloadDelay: 1.5
   _emitSmokeCount: 3
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 4089277663014003888}
   - component: {fileID: 9032032301527945564}
   - component: {fileID: 8959668980819680873}
-  - component: {fileID: 504214850393997966}
+  - component: {fileID: 8263465517081405748}
   - component: {fileID: 7872239803345891132}
   - component: {fileID: 1565436376118447708}
   m_Layer: 0
@@ -484,7 +484,7 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -8964106073494916162, guid: 3d210b2be9d4b9144b53828dfc2e73e3, type: 3}
---- !u!114 &504214850393997966
+--- !u!114 &8263465517081405748
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -493,11 +493,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3978189688258585313}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b3e21422e254466810369536a65b19b, type: 3}
+  m_Script: {fileID: 11500000, guid: 6213543e868e4a008eaa9de7f85ad61e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _accelerationPower: 1
-  _fireDelaySec: 1
+  _rotateSpeed: 1
 --- !u!114 &7872239803345891132
 MonoBehaviour:
   m_ObjectHideFlags: 0
