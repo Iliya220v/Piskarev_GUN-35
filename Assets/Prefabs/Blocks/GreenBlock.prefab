@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6591835750808462012}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0.23000002, y: 0, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -43,10 +43,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5029895798173717019}
     m_Modifications:
-    - target: {fileID: 927120516204921409, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 04d4feb6c10ca6941a93f9d344dc1596, type: 2}
     - target: {fileID: 3429673627589017126, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -121,10 +117,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5029895798173717019}
     m_Modifications:
-    - target: {fileID: 927120516204921409, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 04d4feb6c10ca6941a93f9d344dc1596, type: 2}
     - target: {fileID: 3429673627589017126, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -199,10 +191,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5029895798173717019}
     m_Modifications:
-    - target: {fileID: 927120516204921409, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 04d4feb6c10ca6941a93f9d344dc1596, type: 2}
     - target: {fileID: 3429673627589017126, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.62
@@ -265,10 +253,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5029895798173717019}
     m_Modifications:
-    - target: {fileID: 927120516204921409, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 04d4feb6c10ca6941a93f9d344dc1596, type: 2}
     - target: {fileID: 3429673627589017126, guid: b74bd24ef9cec3c4386fcf2bbcf08796, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
