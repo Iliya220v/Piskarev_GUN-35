@@ -337,7 +337,7 @@ MonoBehaviour:
   _firePower: 120000
   _muzzleEffect: {fileID: 4452874788093811362}
   _smokeEffect: {fileID: 163840125635608960}
-  _hitEffect: {fileID: 0}
+  _hitEffect: {fileID: 198656289721292014, guid: 318d92bfb9c51a24489f25da35f234a0, type: 3}
   _fireSound: {fileID: 8300000, guid: 95502f053e4521d4e9eaf3c777aa8799, type: 3}
   _hitSound: {fileID: 8300000, guid: dff85f79f1858594eae39a3b3f3f17d0, type: 3}
 --- !u!1 &2402031839687324997
